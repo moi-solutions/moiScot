@@ -21,7 +21,6 @@ Lita.configure do |config|
   # appropriate gem to the Gemfile.
   # config.robot.adapter = :shell
   # config.adapters.shell.private_chat
-  ## Example: Set options for the chosen adapter.
   config.robot.adapter = :slack
   config.adapters.slack.token = ENV['SLACK_BOT_KEY']
 
@@ -30,8 +29,11 @@ Lita.configure do |config|
   # config.redis.port = 1234
   #config.redis[:url] = ENV['REDISTOGO_URL']
   #config.http.port = ENV['PORT']
+  ## Set options for the Redis connection.
+  config.redis[:url] = ENV['REDISTOGO_URL']
+  config.http.port = ENV['PORT']
 
-  ## Example: Set configuration for any loaded handlers. See the handler's
+  ## Set configuration for any loaded handlers. See the handler's
   ## documentation for options.
   config.handlers.google_images.safe_search = :off
 end
