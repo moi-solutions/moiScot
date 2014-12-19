@@ -52,7 +52,7 @@ GEM
       lita (>= 3.0)
       whois
     minitest (5.5.0)
-    moiscot-problem (0.0.3)
+    moiscot-problem (0.0.4)
       lita (~> 4.0, >= 4.0.4)
     multi_json (1.10.1)
     multipart-post (2.0.0)
@@ -87,5 +87,5 @@ DEPENDENCIES
   lita-logger
   lita-slack
   lita-whois
-  moiscot-problem
+  moiscot-problem (~> 0.0.4)
   puma
