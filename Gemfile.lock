@@ -87,5 +87,5 @@ DEPENDENCIES
   lita-logger
   lita-slack
   lita-whois
-  moiscot-problem (~> 0.0.4)
+  moiscot-problem
   puma
