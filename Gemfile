@@ -7,6 +7,7 @@ gem "lita-karma"
 gem 'lita-chuck_norris'
 gem "lita-logger"
 gem "lita-whois"
+gem "moiscot-problem"
 
 gem 'dotenv'
 gem "puma"
