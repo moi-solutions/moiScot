@@ -8,6 +8,7 @@ gem 'lita-karma'
 gem 'lita-chuck_norris'
 gem 'lita-logger'
 gem 'lita-whois'
+gem 'lita-youtube'
 gem 'moiscot-problem'
 
 gem 'dotenv'
