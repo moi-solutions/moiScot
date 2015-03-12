@@ -36,4 +36,7 @@ Lita.configure do |config|
   ## Set configuration for any loaded handlers. See the handler's
   ## documentation for options.
   config.handlers.google_images.safe_search = :off
+
+  ## custom_meme
+  config.handlers.custom_meme.command_only = false
 end

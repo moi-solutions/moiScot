@@ -35,6 +35,8 @@ GEM
       thor (>= 0.18.1)
     lita-chuck_norris (0.0.1)
       lita (>= 3.0)
+    lita-custom-meme (0.1.0)
+      lita (>= 3.1)
     lita-google-images (2.0.0)
       lita (>= 4.0)
     lita-karma (3.0.0)
@@ -84,6 +86,7 @@ DEPENDENCIES
   dotenv
   lita
   lita-chuck_norris
+  lita-custom-meme
   lita-google-images
   lita-karma
   lita-logger
