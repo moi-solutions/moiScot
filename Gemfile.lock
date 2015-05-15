@@ -56,6 +56,8 @@ GEM
     lita-youtube (1.0.0)
       lita (>= 4.0)
     minitest (5.5.0)
+    moiscot-coffee (0.0.1)
+      lita (~> 4.0, >= 4.0.4)
     moiscot-problem (0.0.4)
       lita (~> 4.0, >= 4.0.4)
     multi_json (1.10.1)
@@ -93,5 +95,6 @@ DEPENDENCIES
   lita-slack
   lita-whois
   lita-youtube
+  moiscot-coffee
   moiscot-problem
   puma
