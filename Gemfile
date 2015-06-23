@@ -11,7 +11,7 @@ gem 'lita-whois'
 gem 'lita-youtube'
 gem 'lita-custom-meme'
 gem 'moiscot-problem'
-#gem 'moiscot-coffee'
+gem 'moiscot-coffee'
 
 gem 'dotenv'
 gem 'puma'
