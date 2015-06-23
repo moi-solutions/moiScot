@@ -49,7 +49,7 @@ GEM
       faye-websocket (>= 0.8.0)
       lita (>= 4.4.2)
       multi_json
-    lita-tuc (0.0.1)
+    lita-tuc (0.0.2)
       lita (~> 4.0, >= 4.0.4)
     lita-whois (0.1.0)
       ipaddress
@@ -58,7 +58,7 @@ GEM
     lita-youtube (1.0.0)
       lita (>= 4.0)
     minitest (5.7.0)
-    moiscot-coffee (0.0.8)
+    moiscot-coffee (0.0.9)
       lita (~> 4.0, >= 4.0.4)
     moiscot-problem (0.0.4)
       lita (~> 4.0, >= 4.0.4)
