@@ -12,6 +12,7 @@ gem 'lita-youtube'
 gem 'lita-custom-meme'
 gem 'moiscot-problem'
 gem 'moiscot-coffee'
+gem 'lita-tuc'
 
 gem 'dotenv'
 gem 'puma'
