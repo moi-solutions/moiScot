@@ -50,6 +50,8 @@ GEM
       lita (>= 2.7)
     lita-eightball (1.0.4)
       lita (>= 2.0)
+    lita-eval (0.1.0)
+      lita (~> 4.3)
     lita-google-images (2.0.0)
       lita (>= 4.0)
     lita-hackersays (1.0.1)
@@ -106,6 +108,7 @@ DEPENDENCIES
   lita-days
   lita-dice
   lita-eightball
+  lita-eval
   lita-google-images
   lita-hackersays
   lita-karma
