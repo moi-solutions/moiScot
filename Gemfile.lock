@@ -44,8 +44,14 @@ GEM
       lita (>= 3.0)
     lita-custom-meme (1.0.0)
       lita (>= 4.0)
+    lita-days (0.1.0)
+      lita (>= 4.3)
+    lita-dice (0.0.1)
+      lita (>= 2.7)
     lita-google-images (2.0.0)
       lita (>= 4.0)
+    lita-hackersays (1.0.1)
+      lita (>= 4.2)
     lita-karma (3.0.2)
       lita (>= 4.0)
     lita-logger (1.0.1)
@@ -95,7 +101,10 @@ DEPENDENCIES
   lita
   lita-chuck_norris
   lita-custom-meme
+  lita-days
+  lita-dice
   lita-google-images
+  lita-hackersays
   lita-karma
   lita-logger
   lita-slack
