@@ -11,7 +11,7 @@ gem 'lita-whois'
 gem 'lita-youtube'
 gem 'lita-custom-meme'
 gem 'moiscot-problem'
-gem 'moiscot-coffee'
+gem 'moiscot-coffee', git: 'git@github.com:moi-team/moiScot-coffee.git'
 gem 'lita-tuc'
 
 gem 'dotenv'
