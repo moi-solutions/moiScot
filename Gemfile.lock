@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (4.2.3)
+    activesupport (4.2.4)
       i18n (~> 0.7)
       json (~> 1.7, >= 1.7.7)
       minitest (~> 5.1)
@@ -21,7 +21,7 @@ GEM
     ice_nine (0.11.1)
     ipaddress (0.8.0)
     json (1.8.3)
-    lita (4.5.0)
+    lita (4.6.1)
       bundler (>= 1.3)
       faraday (>= 0.8.7)
       http_router (>= 0.11.2)
@@ -43,11 +43,11 @@ GEM
       lita (>= 4.0)
     lita-logger (1.0.1)
       lita (>= 3.3)
-    lita-slack (1.5.0)
+    lita-slack (1.6.0)
       eventmachine
       faraday
       faye-websocket (>= 0.8.0)
-      lita (>= 4.4.2)
+      lita (>= 4.6.0)
       multi_json
     lita-tuc (0.0.2)
       lita (~> 4.0, >= 4.0.4)
@@ -79,7 +79,7 @@ GEM
     websocket-driver (0.6.2)
       websocket-extensions (>= 0.1.0)
     websocket-extensions (0.1.2)
-    whois (3.6.0)
+    whois (3.6.1)
       activesupport (>= 3)
 
 PLATFORMS
@@ -102,4 +102,4 @@ DEPENDENCIES
   puma
 
 BUNDLED WITH
-   1.10.5
+   1.10.6
