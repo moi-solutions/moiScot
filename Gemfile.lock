@@ -1,5 +1,5 @@
 GIT
-  remote: git@github.com:moi-team/moiScot-coffee.git
+  remote: https://github.com/moi-team/moiScot-coffee.git
   revision: b7c818e163ee40f78f6b249ac450b8a092c91be3
   specs:
     moiscot-coffee (0.0.10)
