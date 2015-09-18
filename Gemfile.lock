@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/moi-team/moiScot-coffee.git
-  revision: b7c818e163ee40f78f6b249ac450b8a092c91be3
+  revision: 32566e6da848ea35326dd42e30582cc8cd805157
   specs:
     moiscot-coffee (0.0.10)
       lita (~> 4.0, >= 4.0.4)
@@ -96,7 +96,7 @@ GEM
     websocket-driver (0.6.2)
       websocket-extensions (>= 0.1.0)
     websocket-extensions (0.1.2)
-    whois (3.6.1)
+    whois (3.6.2)
       activesupport (>= 3)
 
 PLATFORMS
